@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALUNO\\Desktop\\texobloom\\appwebbloom\\AppWebBlum.csproj": {}
+    "C:\\Users\\ALUNO\\Desktop\\texobloom\\AppWebBloom\\AppWebBlum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALUNO\\Desktop\\texobloom\\appwebbloom\\AppWebBlum.csproj": {
+    "C:\\Users\\ALUNO\\Desktop\\texobloom\\AppWebBloom\\AppWebBlum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\texobloom\\appwebbloom\\AppWebBlum.csproj",
+        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\texobloom\\AppWebBloom\\AppWebBlum.csproj",
         "projectName": "AppWebBlum",
-        "projectPath": "C:\\Users\\ALUNO\\Desktop\\texobloom\\appwebbloom\\AppWebBlum.csproj",
+        "projectPath": "C:\\Users\\ALUNO\\Desktop\\texobloom\\AppWebBloom\\AppWebBlum.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALUNO\\Desktop\\texobloom\\appwebbloom\\obj\\",
+        "outputPath": "C:\\Users\\ALUNO\\Desktop\\texobloom\\AppWebBloom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
